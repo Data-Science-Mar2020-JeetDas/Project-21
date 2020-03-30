@@ -1,0 +1,16 @@
+
+# Question - 09 : India
+
+India = df[df.Location == 'India']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(India)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+   Location                                          Indicator  Period  \
+60    India  Psychiatrists working in mental health sector ...    2016   
+
+    First Tooltip  
+60           0.29  
