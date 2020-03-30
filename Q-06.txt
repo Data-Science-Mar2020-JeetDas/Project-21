@@ -1,0 +1,16 @@
+
+# Question - 06 : Central African Republic
+
+Central_African_Republic = df[df.Location == 'Central African Republic']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(Central_African_Republic)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+                    Location  \
+23  Central African Republic   
+
+                                            Indicator  Period  First Tooltip  
+23  Psychiatrists working in mental health sector ...    2017          0.022  
