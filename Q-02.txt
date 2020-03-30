@@ -1,0 +1,14 @@
+
+# Question - 02 : Algeria  
+
+Algeria  = df[df.Location == 'Algeria']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(Algeria)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+Empty DataFrame
+Columns: [Location, Indicator, Period, First Tooltip]
+Index: []
