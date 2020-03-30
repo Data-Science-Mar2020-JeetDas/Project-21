@@ -1,0 +1,16 @@
+
+# Question - 01 : Afghanistan
+
+Afghanistan = df[df.Location == 'Afghanistan']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(Afghanistan)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+      Location                                          Indicator  Period  \
+0  Afghanistan  Psychiatrists working in mental health sector ...    2016   
+
+   First Tooltip  
+0           0.23  
