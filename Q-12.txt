@@ -1,0 +1,16 @@
+
+# Question - 12 : United Arab Emirates
+
+UAE = df[df.Location == 'United Arab Emirates']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(UAE)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+                 Location                                          Indicator  \
+137  United Arab Emirates  Psychiatrists working in mental health sector ...   
+
+     Period  First Tooltip  
+137    2016           1.65  
