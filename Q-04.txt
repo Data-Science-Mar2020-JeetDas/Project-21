@@ -1,0 +1,16 @@
+
+# Question - 04 : Armenia 
+
+Armenia = df[df.Location == 'Armenia']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(Armenia)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+  Location                                          Indicator  Period  \
+5  Armenia  Psychiatrists working in mental health sector ...    2016   
+
+   First Tooltip  
+5           3.84  
