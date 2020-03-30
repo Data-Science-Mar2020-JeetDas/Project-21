@@ -1,0 +1,16 @@
+# Question - 10 : Indonesia
+
+Indonesia = df[df.Location == 'Indonesia']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(Indonesia)
+
+
+
+--------------[ OUTPUT ]----------------------
+
+
+     Location                                          Indicator  Period  \
+61  Indonesia  Psychiatrists working in mental health sector ...    2016   
+
+    First Tooltip  
+61           0.31  
