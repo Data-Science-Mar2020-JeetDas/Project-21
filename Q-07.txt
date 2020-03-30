@@ -1,0 +1,16 @@
+
+# Question - 07 : Chad
+
+Chad = df[df.Location == 'Chad']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(Chad)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+   Location                                          Indicator  Period  \
+24     Chad  Psychiatrists working in mental health sector ...    2016   
+
+    First Tooltip  
+24          0.007  
