@@ -1,0 +1,15 @@
+# Question - 03 : Argentina 
+
+Argentina  = df[df.Location == 'Argentina']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(Argentina)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+    Location                                          Indicator  Period  \
+4  Argentina  Psychiatrists working in mental health sector ...    2016   
+
+   First Tooltip  
+4          21.71  
