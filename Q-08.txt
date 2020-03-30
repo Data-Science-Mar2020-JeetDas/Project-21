@@ -1,0 +1,16 @@
+
+# Question - 08 : China
+
+China = df[df.Location == 'China']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(China)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+   Location                                          Indicator  Period  \
+26    China  Psychiatrists working in mental health sector ...    2015   
+
+    First Tooltip  
+26            2.2  
