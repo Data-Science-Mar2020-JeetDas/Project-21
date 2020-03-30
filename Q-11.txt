@@ -1,0 +1,16 @@
+
+# Question - 11 : Thailand
+
+Thailand = df[df.Location == 'Thailand']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(Thailand)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+     Location                                          Indicator  Period  \
+129  Thailand  Psychiatrists working in mental health sector ...    2016   
+
+     First Tooltip  
+129           0.72  
