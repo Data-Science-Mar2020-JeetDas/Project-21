@@ -1,0 +1,16 @@
+
+# Question - 05 : Bangladesh
+
+Bangladesh = df[df.Location == 'Bangladesh']
+print("\n\n--------------[ OUTPUT ]----------------------\n\n")
+print(Bangladesh)
+
+
+--------------[ OUTPUT ]----------------------
+
+
+     Location                                          Indicator  Period  \
+9  Bangladesh  Psychiatrists working in mental health sector ...    2016   
+
+   First Tooltip  
+9           0.13  
